@@ -116,7 +116,7 @@ $result = mysqli_query($conn,$query);
                             </div>
               <div class="cell" data-title="Operation">
                             <a href="custinfo.php?ID= <?php echo $rows['ID'] ;?>"> <button style="background-color: #663dff;
-background-image: linear-gradient(319deg, #663dff 0%, #aa00ff 37%, #cc4499 100%);" type="button" class="btn btn-info">Transfer Money</button></a>
+background-image: linear-gradient(319deg, #663dff 0%, #aa00ff 37%, #cc4499 100%);" type="button" class="btn btn-info">Select User</button></a>
                             </div>
                         </div>
 
