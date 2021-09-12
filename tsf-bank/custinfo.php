@@ -230,8 +230,7 @@ button:hover{
             <input type="number" class="form-control" name="amount" required>   
             <br><br>
                 <div class="text-center" >
-                                <button style="background-color: #663dff;
-background-image: linear-gradient(319deg, #663dff 0%, #aa00ff 37%, #cc4499 100%);" class="btn mt-2" name="submit" type="submit" id="myBtn">Transfer</button>
+                                <button style="background-color: grey" class="btn mt-2" name="submit" type="submit" id="myBtn">Transfer</button>
             
             </div>
         </form>
