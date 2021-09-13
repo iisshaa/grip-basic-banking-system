@@ -1,6 +1,6 @@
 # grip-basic-banking-system
 
-This is a Basic Banking System website which provides a platform for the users to transfer money swiftly and securely and then view the transaction history in a very user-friendly manner.
+This is a Basic Banking System website which provides a platform for the users to transfer money swiftly and securely and then view the transaction history in a very user-friendly manner. All the customer and transaction details are stored in the database(phpMyAdmin).
 
 Languages & Softwares used:
 Frontend: HTML,CSS and JavaScript
